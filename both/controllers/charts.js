@@ -1,0 +1,5 @@
+ChartsController = AppController.extend({
+  data: {
+
+  }
+});
